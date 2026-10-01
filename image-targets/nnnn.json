@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 252,
+    "left": 0,
+    "width": 1121,
+    "height": 1494,
+    "isRotated": true,
+    "originalWidth": 1121,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/nnnn_luminance.jpg",
+  "metadata": null,
+  "name": "nnnn",
+  "resources": {
+    "originalImage": "nnnn_original.jpg",
+    "croppedImage": "nnnn_cropped.jpg",
+    "thumbnailImage": "nnnn_thumbnail.jpg",
+    "luminanceImage": "nnnn_luminance.jpg"
+  },
+  "created": 1790820588716,
+  "updated": 1790821477627
+}
